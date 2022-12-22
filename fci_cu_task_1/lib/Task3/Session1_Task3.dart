@@ -94,8 +94,8 @@ class _S_1_T_3State extends State<S_1_T_3> {
                         color: Colors.white,
                         child:RotatedBox(
                           quarterTurns: 3,
-                          child: Image.asset(
-                            "Session_1/Task_3/qq.webp",
+                          child: Image.network(
+                            "https://i2.wp.com/e7.pngegg.com/pngimages/245/119/png-clipart-coat-of-arms-of-egypt-united-arab-republic-eagle-of-saladin-saladin-eagle-flag-egypt.png",
 
                           ),
                         ),
